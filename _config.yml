@@ -3,6 +3,8 @@ repository: tomjohnson1492/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
+logo_url: https://app-dev.tangotargeting.com/img/logos/logo_tango-white.svg
+
 topnav_title: Tango Targeting Documentation
 # this appears on the top navigation bar next to the home button
 
