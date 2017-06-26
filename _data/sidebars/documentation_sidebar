@@ -1,0 +1,23 @@
+
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Engagement
+    output: web
+    folderitems:
+    - title: What is a campaign?
+      url: /campaign_doc.html
+      output: web
+    - title: Real-time campaign
+      url: /realtime_campaign_doc.html
+      output: web
+    - title: Scheduled campaign
+      url: /scheduled_campaign_doc.html
+      output: web
+    - title: Recurrent campaign
+      url: /recurrent_campaign_doc.html
+      output: web
