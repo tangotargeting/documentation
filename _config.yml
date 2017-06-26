@@ -72,7 +72,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: false
       sidebar: home_sidebar
       topnav: topnav
@@ -82,7 +82,7 @@ defaults:
       type: "tooltips"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: false
       tooltip: true
 
