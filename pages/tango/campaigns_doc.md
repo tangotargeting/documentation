@@ -6,7 +6,7 @@ tags: [getting_started]
 summary: "I have used this theme for projects that I've worked on as a professional technical writer."
 sidebar: documentation_sidebar
 permalink: campaigns.html
-folder: mydoc
+folder: tango
 ---
 
 Tango Targeting Documentation
