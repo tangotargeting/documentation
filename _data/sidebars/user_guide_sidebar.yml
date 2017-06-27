@@ -10,7 +10,7 @@ entries:
     output: web
     folderitems:
     - title: What is a campaign?
-      url: /campaign_doc.html
+      url: /user_campaign_doc.html
       output: web
     - title: Real-time campaign
       url: /realtime_campaign_doc.html
