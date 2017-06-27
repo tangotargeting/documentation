@@ -13,16 +13,9 @@ A campaign is a process of presenting messages to users and collecting their "re
 
 ### The message
 
+Here is message example that can be presented to the user.
 
-
-<div class="row">
-<div class="col-md-8" markdown="1">
-            
-</div>
-<div class="col-md-4">
-<img src="https://raw.githubusercontent.com/tangotargeting/tango-documentation/master/Hogwarts%20Express%20Sale%20Pop%20Up.png" style="width:100%"/>
-</div>
-</div>
+<img src="https://raw.githubusercontent.com/tangotargeting/tango-documentation/master/Hogwarts%20Express%20Sale%20Pop%20Up.png" style="width:20%"/>
 
 | Element          | Description |
 |------------------|-------------|
