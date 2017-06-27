@@ -5,6 +5,7 @@ last_updated: July 3, 2016
 sidebar: user_guide_sidebar
 permalink: user_campaign_doc.html
 folder: user_guide
+toc: false
 ---
 
 ## What is a campaign?
