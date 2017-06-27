@@ -4,8 +4,15 @@ h3{
     color:#555;
 }
 
-body {
-    font-size:15px;
+body, html {
+    color: #212121;
+    font: 400 16px/24px Roboto,sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
 
 .bs-callout {
