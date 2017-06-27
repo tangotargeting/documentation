@@ -21,6 +21,9 @@ entries:
     - title: Recurrent campaign
       url: /recurrent_campaign_doc.html
       output: web
+    - title: Guide for impactful campaigns
+      url: /guide_for_impactful_campaigns_doc.html
+      output: web
   - title: Segmentation
     output: web
     folderitems:
