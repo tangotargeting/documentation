@@ -3,7 +3,7 @@ title: What is a campaign?
 keywords: documentation, tango, campaigns
 last_updated: July 3, 2016
 sidebar: documentation_sidebar
-permalink: campaigns.html
+permalink: campaign_doc.html
 folder: tango
 ---
 
