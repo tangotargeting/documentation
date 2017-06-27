@@ -19,7 +19,7 @@ Here are a few examples of messages that can be presented to the users.
 <img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Spider-Man%20Homecoming%20Message.png" style="width:30%; display:inline-block; margin-left:15px;"/>
 <img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Barnes%20%26%20Noble%20Message.png" style="width:30%; display:inline-block; margin-left:15px;"/>
 
-Below are the elements of which a message is composed. Naturally, there is a minimum required for each message and it can be implemented in a matter of seconds. However, this is what your users will see, so recommend investing some time in writing a good message. You can also checkout our Guide for impactful campaigns.  
+Below are the elements of which a message is composed. Naturally, there is a minimum required for each message and it can be implemented in a matter of seconds. However, this is what your users will see, so recommend investing some time in writing a good message. You can also checkout our ![Guide for impactful campaigns]().  
 
 | Element          | Description |
 |------------------|-------------|
