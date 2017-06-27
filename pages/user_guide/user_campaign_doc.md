@@ -16,7 +16,7 @@ A campaign is a process of presenting messages to users and collecting their "re
 
 
 <div class="row">
-<div class="col-md-8"  markdown="1">
+<div class="col-md-8">
 | Element          | Description |
 |------------------|-------------|
 | Title*           | A short title for your message. Maximum of 30 characters.                                              |
