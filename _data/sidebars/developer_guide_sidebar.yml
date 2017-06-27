@@ -1,0 +1,36 @@
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+  - title: Android
+    output: web
+    folderitems:
+    - title: Integrate
+      url: /developer_android_integrate_doc.html
+      output: web
+    - title: Test
+      url: /developer_android_test_doc.html
+      output: web
+    - title: Create custom actions
+      url: /developer_android_custom_actions_doc.html
+      output: web
+    - title: Automated campaigns
+      url: /developer_android_automated_campaigns_doc.html
+      output: web
+  - title: iOS
+    output: web
+    folderitems:
+    - title: Integrate
+      url: /developer_ios_integrate_doc.html
+      output: web
+    - title: Test
+      url: /developer_ios_test_doc.html
+      output: web
+    - title: Create custom actions
+      url: /developer_ios_custom_actions_doc.html
+      output: web
+    - title: Automated campaigns
+      url: /developer_ios_automated_campaigns_doc.html
+      output: web
+  - title: API reference
+    output: web
