@@ -4,6 +4,10 @@ output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
 logo_url: https://app-dev.tangotargeting.com/img/logos/logo_tango-white.svg
+# this specifies the url for the company logo
+
+show_search_input: false
+# specifies whether the search input should be displayed in the topnav bar
 
 topnav_title: Tango Targeting Documentation
 # this appears on the top navigation bar next to the home button
