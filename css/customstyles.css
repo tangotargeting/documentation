@@ -368,7 +368,7 @@ a.accordion-toggle, a.accordion-collapsed {
     font-weight: bolder;
 }
 
-.nav.nav-bar > li.active > a {
+.nav.navbar-nav > li.active > a {
     background-color: none !important;
 }
 
