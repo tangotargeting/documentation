@@ -349,7 +349,7 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .nav > li li {
-    margin: 2px 0;
+    margin: 1px 0;
 }
 
 .nav a {
@@ -377,8 +377,8 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .nav a:hover, .nav li.active > a {
-    background-color: #8D8D8D;
-    color: #f5f5f5;
+/*     background-color: #8D8D8D; */
+    color: #347dbe;
 }
 
 .nav > li.active > a  {
