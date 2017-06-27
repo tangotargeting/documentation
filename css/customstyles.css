@@ -298,6 +298,8 @@ li.dropdownActive a {
 .navbar-inverse .navbar-nav > li > a {
     background-color: transparent;
     margin-top:10px;
+    font-size: 17px;
+    text-transform: uppercase;
 }
 
 .post-content .rssfeedLink {
