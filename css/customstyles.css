@@ -386,8 +386,11 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .nav a:hover, .nav li.active > a {
-/*     background-color: #8D8D8D; */
     color: #347dbe;
+}
+
+.nav > li > a:hover {
+    background-color: #f1f1f1 !important;
 }
 
 .nav > li.active > a  {
