@@ -373,7 +373,7 @@ a.accordion-toggle, a.accordion-collapsed {
     color: #fff;
 }
 
-.nav.navbar-nav > li.active > a {
+.nav.navbar-nav > li > a {
     background: none !important;
     color: #ddd;
 }
