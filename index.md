@@ -1,7 +1,6 @@
 ---
 title: Getting started with Tango Targeting
 keywords: sample homepage
-tags: [getting_started]
 sidebar: documentation_sidebar
 permalink: index.html
 ---
