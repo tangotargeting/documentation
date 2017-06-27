@@ -15,10 +15,10 @@ A campaign is a process of presenting messages to users and collecting their "re
 
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-8">
 Here's an example of a message.
 </div>
-<div class="col-md-6">
+<div class="col-md-4">
 
 <img src="https://raw.githubusercontent.com/tangotargeting/tango-documentation/master/Hogwarts%20Express%20Sale%20Pop%20Up.png" width="30%">
 </div>
