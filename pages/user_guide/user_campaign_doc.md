@@ -13,11 +13,13 @@ A campaign is a process of presenting messages to users and collecting their "re
 
 ### The message
 
-Here is message example that can be presented to the user.
-<div>
+Here are a few examples of messages that can be presented to the user.
+
 <img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Hogwarts%20Express%20Sale%20Message.png" style="width:30%; display:inline;"/> 
 <img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Spider-Man%20Homecoming%20Message.png" style="width:30%; display:inline-block; margin-left:15px;"/>
 <img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Barnes%20%26%20Noble%20Message.png" style="width:30%; display:inline-block; margin-left:15px;"/>
+
+Below are the elements present in a message. 
 
 | Element          | Description |
 |------------------|-------------|
@@ -25,7 +27,7 @@ Here is message example that can be presented to the user.
 | Body             | Your actual message. Up to 110 characters.                                                             |
 | Primary Action*  | A button with an associated action (open a link, make a call, etc.) that the user is expected to take. |
 | Secondary Action | A secondary action the user is expected to take.                                                       |
-| Image            | An image to enhance the power of the message. At least .png, .jpg, .gif supported.                     |
+| Image            | An image to enhance the power of the message. At least .png, .jpg, .gif supported. The height can vary to some extent.                     |
 | Close*           | Provided by default. It is not considered a user action but rather a dismiss event. 
 
 _The elements marked with asterisk(*) are mandatory._
