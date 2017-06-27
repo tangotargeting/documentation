@@ -1,21 +1,27 @@
 ---
 title: What is a campaign?
-keywords: documentation, tango, campaigns
-last_updated: July 3, 2016
+keywords: 'documentation, tango, campaigns'
+last_updated: 'July 3, 2016'
 sidebar: user_guide_sidebar
 permalink: user_campaign_doc.html
 folder: user_guide
 toc: false
+published: true
 ---
 
-A campaign is a process of presenting messages to users and collecting their "responses". Each campaign is composed of **a message**, **a set of actions**, **a set of rules** for presenting the message **and useful statistics** based on the aggregated user actions data.
+A campaign is a process of presenting messages to users and collecting their "responses". Each campaign is composed of **a message**, **a set of actions**, **a set of rules** for presenting the message **and useful insights** based on the aggregated user actions data.
 
 ### The message
-Here's an example of a message.
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/tangotargeting/tango-documentation/master/Hogwarts%20Express%20Sale%20Pop%20Up.png" width="30%">
-</p>
+
+<div class="row">
+    <div class="col-md-6">
+        Here's an example of a message.
+    </div>
+    <div class="col-md-6">
+        <img src="https://raw.githubusercontent.com/tangotargeting/tango-documentation/master/Hogwarts%20Express%20Sale%20Pop%20Up.png" width="30%">
+    </div>
+</div>
 
 Here the standard elements for a message.
 
