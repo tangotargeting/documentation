@@ -3,5 +3,7 @@
 topnav:
 - title: Topnav
   items:
-    - title: News
-      url: /news
+    - title: User Guide
+      url: /campaigns_doc.html
+    - title: Developer
+      url: /developer
