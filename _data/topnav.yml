@@ -4,6 +4,6 @@ topnav:
 - title: Topnav
   items:
     - title: User Guide
-      url: /campaign_doc.html
+      url: /user_campaign_doc.html
     - title: Developer
       url: /developer_overview_doc.html
