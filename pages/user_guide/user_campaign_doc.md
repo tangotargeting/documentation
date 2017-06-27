@@ -8,7 +8,6 @@ folder: user_guide
 toc: false
 ---
 
-## What is a campaign?
 A campaign is a process of presenting messages to users and collecting their "responses". Each campaign is composed of **a message**, **a set of actions**, **a set of rules** for presenting the message **and useful statistics** based on the aggregated user actions data.
 
 ### The message
