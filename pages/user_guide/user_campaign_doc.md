@@ -14,10 +14,10 @@ A campaign is a process of presenting messages to users and collecting their "re
 ### The message
 
 Here is message example that can be presented to the user.
+<div>
+<img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Hogwarts%20Express%20Sale%20Message.png" style="width:30%; display:inline;"/>
 
-<img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Hogwarts%20Express%20Sale%20Message.png" style="width:30%"/>
-
-<img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Spider-Man%20Homecoming%20Message.png" style="width:30%"/>
+<img src="https://raw.githubusercontent.com/tangotargeting/documentation/gh-pages/images/Spider-Man%20Homecoming%20Message.png" style="width:30%; display:inline;"/>
 
 | Element          | Description |
 |------------------|-------------|
