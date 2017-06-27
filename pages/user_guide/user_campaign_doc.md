@@ -32,8 +32,8 @@ Below are the elements of which a message is composed.
 |------------------|-------------|
 | Title*           | A short title for your message. Maximum of 30 characters.                                              |
 | Body             | Your actual message. Up to 110 characters.                                                             |
-| Primary&nbsp;Action*  | A button with an associated action (open a link, make a call, etc.) that the user is expected to take. |
-| Secondary&nbsp;Action | A secondary action the user is expected to take.                                                       |
+| Primary Action*  | A button with an associated action (open a link, make a call, etc.) that the user is expected to take. |
+| Secondary Action | A secondary action the user is expected to take.                                                       |
 | Image            | An image to enhance the power of the message. At least .png, .jpg, .gif supported. The height can vary to some extent.                     |
 | Close*           | Provided by default. It is not considered a user action but rather a dismiss event. 
 
