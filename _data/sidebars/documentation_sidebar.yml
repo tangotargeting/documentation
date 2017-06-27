@@ -21,3 +21,22 @@ entries:
     - title: Recurrent campaign
       url: /recurrent_campaign_doc.html
       output: web
+  - title: Segmentation
+    output: web
+    folderitems:
+    - title: What is a segment?
+      url: /segmentation_doc.html
+      output: web
+    - title: Supported segment types
+      url: /segmentation_type_doc.html
+      output: web
+      
+  - title: Insights
+    output: web
+    folderitems:
+    - title: Overview
+      url: /insights_overview_doc.html
+      output: web
+    - title: Campaign reports
+      url: /insights_overview_doc
+      output: web
