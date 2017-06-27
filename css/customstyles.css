@@ -369,7 +369,13 @@ a.accordion-toggle, a.accordion-collapsed {
 }
 
 .nav.navbar-nav > li.active > a {
-    background-color: none !important;
+    background: none !important;
+    color: #fff;
+}
+
+.nav.navbar-nav > li.active > a {
+    background: none !important;
+    color: #ddd;
 }
 
 .nav li > a > span:before {
